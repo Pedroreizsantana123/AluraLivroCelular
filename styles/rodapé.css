@@ -1,0 +1,9 @@
+hr {
+    margin: 0;
+}
+/* Pedro.Reis.2c.24/10/2024
+*/
+.rodapé {
+    background-color: var(--branco);
+    padding: 1em;
+}
